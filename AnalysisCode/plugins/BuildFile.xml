@@ -1,0 +1,53 @@
+<use   name="clhep"/>
+<use   name="root"/>
+<use   name="FWCore/Framework"/>
+<use   name="FWCore/PluginManager"/>
+<use   name="FWCore/ParameterSet"/>
+<use   name="FWCore/ServiceRegistry"/>
+<use   name="FWCore/Utilities"/>
+
+<use   name="DataFormats/JetReco"/>
+<use   name="DataFormats/Math"/>
+<use   name="DataFormats/HepMCCandidate"/>
+<use   name="DataFormats/MuonReco"/>
+<use   name="DataFormats/TrackReco"/>
+<use   name="DataFormats/TrackerRecHit2D"/>
+<use   name="DataFormats/TrackingRecHit"/>
+<use   name="DataFormats/CaloTowers"/>
+<use   name="DataFormats/Candidate"/>
+<use   name="DataFormats/Common"/>
+<use   name="DataFormats/HLTReco"/>
+<use   name="DataFormats/RecoCandidate"/>
+<use   name="DataFormats/ParticleFlowCandidate"/>
+<use   name="DataFormats/HeavyIonEvent"/>
+<use   name="DataFormats/VertexReco"/>
+<use   name="DataFormats/DetId"/>
+
+<use   name="JetMETCorrections/Objects"/>
+
+<use   name="SimDataFormats/GeneratorProducts"/>
+<use   name="SimDataFormats/JetMatching"/>
+<use   name="SimDataFormats/TrackingAnalysis"/>
+
+<use   name="CommonTools/UtilAlgos"/>
+<use   name="CommonTools/TriggerUtils"/>
+
+<use   name="HLTrigger/HLTcore"/>
+
+<use   name="CondFormats/HIObjects"/>
+<use   name="CondFormats/DataRecord"/>
+
+<use   name="TrackingTools/TransientTrack"/>
+<use   name="TrackingTools/Records"/>
+
+<use   name="RecoVertex/KalmanVertexFit"/>
+
+<use   name="RecoTracker/TkTrackingRegions"/>
+
+<use   name="RecoJets/JetProducers"/>
+
+<use   name="RecoHI/HiJetAlgos"/>
+
+<use   name="PhysicsTools/SelectorUtils"/>
+
+<flags EDM_PLUGIN="1"/>
